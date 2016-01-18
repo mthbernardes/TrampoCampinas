@@ -17,3 +17,6 @@ Execute o programa e seja feliz
 TrampoCampinas.py - Responsavel por encontrar as vagas e enviar o curriculo.
 
 email.txt - Arquivo que deve contem o conteudo do e-mail.
+
+#Artigo
+https://gamblersec.blogspot.com.br/2016/01/o-desemprego-pode-nao-ser-tao-ruim-assim.html
