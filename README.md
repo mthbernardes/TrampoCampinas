@@ -15,4 +15,5 @@ Execute o programa e seja feliz
 #Estrutura de arquivos
 
 TrampoCampinas.py - Responsavel por encontrar as vagas e enviar o curriculo.
+
 email.txt - Arquivo que deve contem o conteudo do e-mail.
